@@ -165,7 +165,7 @@ exports.plugin = {
     });
   },
   multiple: true,
-  dependencies: "inert",
+  dependencies: "@hapi/inert",
   name: "hapi-sass",
   pkg: require("./package.json"),
   version: require("./package.json").version
