@@ -7,9 +7,8 @@
     "test": "mocha --ui bdd"
   },
   "author": {
-    "name": "Matt Darnall",
-    "email": "mdarnall@gmail.com",
-    "url": "http://mdarnall.com"
+    "name": "Ben Lanning",
+    "email": "mdarnall@gmail.com"
   },
   "repository": {
     "type": "git",
